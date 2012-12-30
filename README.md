@@ -3,6 +3,8 @@ QCocoa
 
 A collection of common classes I use in my development of Cocoa apps for Mac OS.
 
+This software is free to use and modify at will, attribution appreciated but not required. For more info on the author visit http://jamesonquave.com
+
 # QTintedView
 This is an NSView subclass that allows for setting a background color or gradient (using QGradient class included)
 
