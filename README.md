@@ -10,8 +10,8 @@ This is an NSView subclass that allows for setting a background color or gradien
 
 # Examples:
 * This sets the background color of a settings window to have a blue background
-  [settingsWindow setBackgroundColor:[NSColor clearColor]];
-  [settingsView setBackgroundColor:[NSColor blueColor]];
+	[settingsWindow setBackgroundColor:[NSColor clearColor]];
+> [settingsView setBackgroundColor:[NSColor blueColor]];
 
 * This sets the background color of a window to have a green to red gradient at a 90 degree angle (straight up and down)
   [settingsWindow setBackgroundColor:[NSColor clearColor]];
